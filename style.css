@@ -1,0 +1,53 @@
+*{
+   
+    font-family: 'Roboto Condensed', sans-serif;
+    
+}
+
+.col{
+    
+    background: linear-gradient( to top,lightblue 30%,rgb(197, 192, 186) 70%);
+     
+     
+   
+}
+
+.col1{
+    background-color: rgb(227, 248, 248);
+    height: 1360px;
+    width: 290px;
+}
+.col1 img{
+    border: 2px solid rgb(16, 17, 16);
+    padding: 10px;
+    margin: 10px;
+    
+}
+.one img{
+    width: 50px;
+    height: 60px;
+   border: none;
+   position: absolute;
+left: 50px;
+top: 610px;
+
+
+}
+h4{
+    text-decoration: underline;
+    text-align: justify;
+}
+.one ul li{
+    text-align: justify;
+}
+.oo img:hover{
+    box-shadow: 4px 5px 4px 3px rgb(195, 219, 246);
+}
+.two{
+    text-align: justify;
+    margin: 10px;
+    padding: 20px;
+    
+  
+}
+
